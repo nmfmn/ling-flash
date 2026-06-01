@@ -1,0 +1,1087 @@
+[
+  {
+    "word": "ubiquitous",
+    "translation": "无处不在的",
+    "phonetic": "/juːˈbɪkwɪtəs/",
+    "example": "Smartphones have become ubiquitous in modern life.",
+    "exampleTranslation": "智能手机在现代生活中已经无处不在。"
+  },
+  {
+    "word": "paradigm",
+    "translation": "范式;典范",
+    "phonetic": "/ˈpærədaɪm/",
+    "example": "The discovery represented a paradigm shift in physics.",
+    "exampleTranslation": "这一发现代表了物理学的范式转变。"
+  },
+  {
+    "word": "pragmatic",
+    "translation": "务实的;实用主义的",
+    "phonetic": "/præɡˈmætɪk/",
+    "example": "She took a pragmatic approach to solving the problem.",
+    "exampleTranslation": "她采取了务实的方法来解决问题。"
+  },
+  {
+    "word": "resilient",
+    "translation": "有韧性的;适应力强的",
+    "phonetic": "/rɪˈzɪliənt/",
+    "example": "Children are remarkably resilient in the face of adversity.",
+    "exampleTranslation": "孩子们在面对逆境时有着惊人的韧性。"
+  },
+  {
+    "word": "scrutiny",
+    "translation": "审查;仔细检查",
+    "phonetic": "/ˈskruːtəni/",
+    "example": "The proposal came under intense scrutiny from lawmakers.",
+    "exampleTranslation": "该提案受到了立法者的严格审查。"
+  },
+  {
+    "word": "volatile",
+    "translation": "不稳定的;易变的",
+    "phonetic": "/ˈvɒlətaɪl/",
+    "example": "The stock market has been extremely volatile this week.",
+    "exampleTranslation": "本周股市极其不稳定。"
+  },
+  {
+    "word": "exacerbate",
+    "translation": "加剧;恶化",
+    "phonetic": "/ɪɡˈzæsəbeɪt/",
+    "example": "Climate change exacerbates existing inequalities.",
+    "exampleTranslation": "气候变化加剧了现有的不平等。"
+  },
+  {
+    "word": "proliferation",
+    "translation": "扩散;激增",
+    "phonetic": "/prəˌlɪfəˈreɪʃn/",
+    "example": "The proliferation of social media has changed communication.",
+    "exampleTranslation": "社交媒体的激增改变了沟通方式。"
+  },
+  {
+    "word": "unprecedented",
+    "translation": "史无前例的",
+    "phonetic": "/ʌnˈpresɪdentɪd/",
+    "example": "The pandemic caused unprecedented disruption to global trade.",
+    "exampleTranslation": "疫情对全球贸易造成了史无前例的干扰。"
+  },
+  {
+    "word": "nuance",
+    "translation": "细微差别;微妙之处",
+    "phonetic": "/ˈnjuːɑːns/",
+    "example": "The debate lacks nuance and ignores important details.",
+    "exampleTranslation": "这场辩论缺乏细微差别，忽略了重要细节。"
+  },
+  {
+    "word": "mitigate",
+    "translation": "减轻;缓解",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "example": "Steps must be taken to mitigate the effects of climate change.",
+    "exampleTranslation": "必须采取措施减轻气候变化的影响。"
+  },
+  {
+    "word": "robust",
+    "translation": "强健的;稳健的",
+    "phonetic": "/rəˈbʌst/",
+    "example": "The economy showed robust growth in the third quarter.",
+    "exampleTranslation": "经济在第三季度表现出稳健增长。"
+  },
+  {
+    "word": "catalyst",
+    "translation": "催化剂;促进因素",
+    "phonetic": "/ˈkætəlɪst/",
+    "example": "The crisis served as a catalyst for reform.",
+    "exampleTranslation": "这场危机成为了改革的催化剂。"
+  },
+  {
+    "word": "discrepancy",
+    "translation": "差异;不一致",
+    "phonetic": "/dɪˈskrepənsi/",
+    "example": "There is a discrepancy between the official data and reality.",
+    "exampleTranslation": "官方数据与现实之间存在差异。"
+  },
+  {
+    "word": "elusive",
+    "translation": "难以捉摸的;难找的",
+    "phonetic": "/ɪˈluːsɪv/",
+    "example": "A lasting peace agreement remains elusive.",
+    "exampleTranslation": "持久的和平协议仍然遥不可及。"
+  },
+  {
+    "word": "inherent",
+    "translation": "固有的;内在的",
+    "phonetic": "/ɪnˈhɪərənt/",
+    "example": "There are inherent risks in any investment.",
+    "exampleTranslation": "任何投资都存在固有风险。"
+  },
+  {
+    "word": "empirical",
+    "translation": "经验主义的;以实验为依据的",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "example": "The theory lacks empirical evidence.",
+    "exampleTranslation": "该理论缺乏经验证据。"
+  },
+  {
+    "word": "contemporary",
+    "translation": "当代的;同时代的",
+    "phonetic": "/kənˈtemprəri/",
+    "example": "Contemporary art often challenges traditional boundaries.",
+    "exampleTranslation": "当代艺术常常挑战传统界限。"
+  },
+  {
+    "word": "consensus",
+    "translation": "共识;一致意见",
+    "phonetic": "/kənˈsensəs/",
+    "example": "There is a growing consensus that action is needed.",
+    "exampleTranslation": "越来越多的人达成共识，认为需要采取行动。"
+  },
+  {
+    "word": "trajectory",
+    "projection": "轨迹;发展方向",
+    "phonetic": "/trəˈdʒektəri/",
+    "example": "The company is on an upward trajectory.",
+    "exampleTranslation": "公司正处于上升轨道。"
+  },
+  {
+    "word": "deteriorate",
+    "translation": "恶化;退化",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "example": "Relations between the two countries continue to deteriorate.",
+    "exampleTranslation": "两国关系持续恶化。"
+  },
+  {
+    "word": "bolster",
+    "translation": "支持;加强",
+    "phonetic": "/ˈbəʊlstə(r)/",
+    "example": "New data bolsters the case for reform.",
+    "exampleTranslation": "新数据支持了改革的论据。"
+  },
+  {
+    "word": "perpetuate",
+    "translation": "使永久化;使延续",
+    "phonetic": "/pəˈpetʃueɪt/",
+    "example": "Such policies perpetuate inequality.",
+    "exampleTranslation": "此类政策使不平等永久化。"
+  },
+  {
+    "word": "substantive",
+    "translation": "实质性的;重要的",
+    "phonetic": "/ˈsʌbstəntɪv/",
+    "example": "The talks failed to produce any substantive results.",
+    "exampleTranslation": "谈判未能取得任何实质性成果。"
+  },
+  {
+    "word": "implications",
+    "translation": "影响;含义;暗示",
+    "phonetic": "/ˌɪmplɪˈkeɪʃnz/",
+    "example": "The policy has far-reaching implications for education.",
+    "exampleTranslation": "该政策对教育有深远的影响。"
+  },
+  {
+    "word": "leverage",
+    "translation": "利用;杠杆",
+    "phonetic": "/ˈliːvərɪdʒ/",
+    "example": "Companies can leverage AI to improve efficiency.",
+    "exampleTranslation": "企业可以利用 AI 提高效率。"
+  },
+  {
+    "word": "disparity",
+    "translation": "差距;不平等",
+    "phonetic": "/dɪˈspærəti/",
+    "example": "The income disparity between rich and poor is widening.",
+    "exampleTranslation": "贫富之间的收入差距正在扩大。"
+  },
+  {
+    "word": "compelling",
+    "translation": "引人注目的;令人信服的",
+    "phonetic": "/kəmˈpelɪŋ/",
+    "example": "There is compelling evidence for the link between diet and health.",
+    "exampleTranslation": "有令人信服的证据表明饮食与健康之间存在联系。"
+  },
+  {
+    "word": "undermine",
+    "translation": "破坏;削弱",
+    "phonetic": "/ˌʌndəˈmaɪn/",
+    "example": "Corruption undermines public trust in government.",
+    "exampleTranslation": "腐败削弱了公众对政府的信任。"
+  },
+  {
+    "word": "encompass",
+    "translation": "包含;涵盖",
+    "phonetic": "/ɪnˈkʌmpəs/",
+    "example": "The curriculum encompasses a wide range of subjects.",
+    "exampleTranslation": "课程涵盖了广泛的学科。"
+  },
+  {
+    "word": "feasible",
+    "translation": "可行的",
+    "phonetic": "/ˈfiːzəbl/",
+    "example": "The plan is technically feasible but expensive.",
+    "exampleTranslation": "该计划在技术上可行但成本高昂。"
+  },
+  {
+    "word": "alleviate",
+    "translation": "减轻;缓解",
+    "phonetic": "/əˈliːvieɪt/",
+    "example": "Measures were taken to alleviate poverty.",
+    "exampleTranslation": "已采取措施减轻贫困。"
+  },
+  {
+    "word": "innate",
+    "translation": "天生的;固有的",
+    "phonetic": "/ɪˈneɪt/",
+    "example": "Humans have an innate desire to connect with others.",
+    "exampleTranslation": "人类天生有与他人建立联系的欲望。"
+  },
+  {
+    "word": "invoke",
+    "translation": "援引;调用",
+    "phonetic": "/ɪnˈvəʊk/",
+    "example": "The lawyer invoked the First Amendment.",
+    "exampleTranslation": "律师援引了第一修正案。"
+  },
+  {
+    "word": "rhetoric",
+    "translation": "修辞;言辞",
+    "phonetic": "/ˈretərɪk/",
+    "example": "The political rhetoric has become increasingly divisive.",
+    "exampleTranslation": "政治言辞变得越来越分裂。"
+  },
+  {
+    "word": "skepticism",
+    "translation": "怀疑论;怀疑态度",
+    "phonetic": "/ˈskeptɪsɪzəm/",
+    "example": "There is widespread skepticism about the new policy.",
+    "exampleTranslation": "对新政策普遍存在怀疑态度。"
+  },
+  {
+    "word": "tangible",
+    "translation": "有形的;切实的",
+    "phonetic": "/ˈtændʒəbl/",
+    "example": "The project has yet to produce tangible results.",
+    "exampleTranslation": "该项目尚未产生切实的成果。"
+  },
+  {
+    "word": "advocate",
+    "translation": "倡导;提倡者",
+    "phonetic": "/ˈædvəkeɪt/",
+    "example": "She advocates for equal rights.",
+    "exampleTranslation": "她倡导平等权利。"
+  },
+  {
+    "word": "burgeoning",
+    "translation": "迅速发展的",
+    "phonetic": "/ˈbɜːdʒənɪŋ/",
+    "example": "The tech industry is burgeoning in Southeast Asia.",
+    "exampleTranslation": "科技行业在东南亚迅速发展。"
+  },
+  {
+    "word": "curtail",
+    "translation": "削减;限制",
+    "phonetic": "/kɜːˈteɪl/",
+    "example": "The government plans to curtail spending.",
+    "exampleTranslation": "政府计划削减开支。"
+  },
+  {
+    "word": "deliberate",
+    "translation": "故意的;深思熟虑的",
+    "phonetic": "/dɪˈlɪbərət/",
+    "example": "It was a deliberate attempt to mislead the public.",
+    "exampleTranslation": "这是一次故意误导公众的尝试。"
+  },
+  {
+    "word": "detrimental",
+    "translation": "有害的;不利的",
+    "phonetic": "/ˌdetrɪˈmentl/",
+    "example": "Smoking is detrimental to health.",
+    "exampleTranslation": "吸烟对健康有害。"
+  },
+  {
+    "word": "endemic",
+    "translation": "地方性的;特有的",
+    "phonetic": "/enˈdemɪk/",
+    "example": "Corruption is endemic in some institutions.",
+    "exampleTranslation": "腐败在某些机构中根深蒂固。"
+  },
+  {
+    "word": "fluctuate",
+    "translation": "波动;起伏",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "example": "Oil prices fluctuate based on global demand.",
+    "exampleTranslation": "石油价格根据全球需求波动。"
+  },
+  {
+    "word": "formidable",
+    "translation": "强大的;令人敬畏的",
+    "phonetic": "/ˈfɔːmɪdəbl/",
+    "example": "She faces formidable challenges ahead.",
+    "exampleTranslation": "她面临着巨大的挑战。"
+  },
+  {
+    "word": "hinder",
+    "translation": "阻碍;妨碍",
+    "phonetic": "/ˈhɪndə(r)/",
+    "example": "Bureaucracy can hinder economic growth.",
+    "exampleTranslation": "官僚主义会阻碍经济增长。"
+  },
+  {
+    "word": "imminent",
+    "translation": "即将发生的",
+    "phonetic": "/ˈɪmɪnənt/",
+    "example": "A deal is imminent.",
+    "exampleTranslation": "一项协议即将达成。"
+  },
+  {
+    "word": "inadvertent",
+    "translation": "无意的;疏忽的",
+    "phonetic": "/ˌɪnədˈvɜːtənt/",
+    "example": "The error was inadvertent.",
+    "exampleTranslation": "这个错误是无意的。"
+  },
+  {
+    "word": "lucrative",
+    "translation": "利润丰厚的",
+    "phonetic": "/ˈluːkrətɪv/",
+    "example": "The deal proved highly lucrative.",
+    "exampleTranslation": "这笔交易被证明利润丰厚。"
+  },
+  {
+    "word": "meticulous",
+    "translation": "一丝不苟的",
+    "phonetic": "/məˈtɪkjələs/",
+    "example": "She is meticulous in her research.",
+    "exampleTranslation": "她在研究中一丝不苟。"
+  },
+  {
+    "word": "obsolete",
+    "translation": "过时的;淘汰的",
+    "phonetic": "/ˈɒbsəliːt/",
+    "example": "Technology can quickly become obsolete.",
+    "exampleTranslation": "技术可能很快就会过时。"
+  },
+  {
+    "word": "peripheral",
+    "translation": "外围的;次要的",
+    "phonetic": "/pəˈrɪfərəl/",
+    "example": "The issue is peripheral to the main debate.",
+    "exampleTranslation": "这个问题对主要辩论来说是次要的。"
+  },
+  {
+    "word": "profound",
+    "translation": "深远的;深刻的",
+    "phonetic": "/prəˈfaʊnd/",
+    "example": "AI will have a profound impact on society.",
+    "exampleTranslation": "AI 将对社会产生深远影响。"
+  },
+  {
+    "word": "speculation",
+    "translation": "推测;投机",
+    "phonetic": "/ˌspekjuˈleɪʃn/",
+    "example": "There is speculation about a possible merger.",
+    "exampleTranslation": "有关于可能合并的猜测。"
+  },
+  {
+    "word": "stagnant",
+    "translation": "停滞不前的",
+    "phonetic": "/ˈstæɡnənt/",
+    "example": "Wages have remained stagnant for a decade.",
+    "exampleTranslation": "工资已经停滞了十年。"
+  },
+  {
+    "word": "stringent",
+    "translation": "严格的;严厉的",
+    "phonetic": "/ˈstrɪndʒənt/",
+    "example": "The regulations are more stringent than before.",
+    "exampleTranslation": "法规比以前更加严格。"
+  },
+  {
+    "word": "substantiate",
+    "translation": "证实;证明",
+    "phonetic": "/səbˈstænʃieɪt/",
+    "example": "He failed to substantiate his claims.",
+    "exampleTranslation": "他未能证实自己的说法。"
+  },
+  {
+    "word": "succinct",
+    "translation": "简洁的;简明的",
+    "phonetic": "/səkˈsɪŋkt/",
+    "example": "Please keep your answer succinct.",
+    "exampleTranslation": "请保持回答简洁。"
+  },
+  {
+    "word": "surge",
+    "translation": "激增;涌动",
+    "phonetic": "/sɜːdʒ/",
+    "example": "There has been a surge in demand for electric vehicles.",
+    "exampleTranslation": "电动汽车需求激增。"
+  },
+  {
+    "word": "susceptible",
+    "translation": "易受影响的",
+    "phonetic": "/səˈseptəbl/",
+    "example": "Children are more susceptible to infections.",
+    "exampleTranslation": "儿童更容易受到感染。"
+  },
+  {
+    "word": "tentative",
+    "translation": "试探性的;暂定的",
+    "phonetic": "/ˈtentətɪv/",
+    "example": "The two sides reached a tentative agreement.",
+    "exampleTranslation": "双方达成了初步协议。"
+  },
+  {
+    "word": "threshold",
+    "translation": "门槛;阈值",
+    "phonetic": "/ˈθreʃhəʊld/",
+    "example": "The temperature crossed a critical threshold.",
+    "exampleTranslation": "温度越过了临界阈值。"
+  },
+  {
+    "word": "underpin",
+    "translation": "支撑;巩固",
+    "phonetic": "/ˌʌndəˈpɪn/",
+    "example": "Strong institutions underpin a healthy democracy.",
+    "exampleTranslation": "强大的制度支撑着健康的民主。"
+  },
+  {
+    "word": "versatile",
+    "translation": "多才多艺的;多功能的",
+    "phonetic": "/ˈvɜːsətaɪl/",
+    "example": "Python is a versatile programming language.",
+    "exampleTranslation": "Python 是一种多功能的编程语言。"
+  },
+  {
+    "word": "vindicate",
+    "translation": "证明…正确",
+    "phonetic": "/ˈvɪndɪkeɪt/",
+    "example": "The results vindicate the researcher's theory.",
+    "exampleTranslation": "结果证明了研究者的理论是正确的。"
+  },
+  {
+    "word": "warrant",
+    "translation": "保证;授权;值得",
+    "phonetic": "/ˈwɒrənt/",
+    "example": "The situation warrants careful attention.",
+    "exampleTranslation": "这种情况值得仔细关注。"
+  },
+  {
+    "word": "amalgamate",
+    "translation": "合并;混合",
+    "phonetic": "/əˈmælɡəmeɪt/",
+    "example": "The two companies decided to amalgamate.",
+    "exampleTranslation": "两家公司决定合并。"
+  },
+  {
+    "word": "articulate",
+    "translation": "清晰表达;善于表达的",
+    "phonetic": "/ɑːˈtɪkjuleɪt/",
+    "example": "She articulated her vision for the company.",
+    "exampleTranslation": "她清晰地表达了对公司的愿景。"
+  },
+  {
+    "word": "benchmark",
+    "translation": "基准;标杆",
+    "phonetic": "/ˈbentʃmɑːk/",
+    "example": "The study set a benchmark for future research.",
+    "exampleTranslation": "这项研究为未来的研究设定了基准。"
+  },
+  {
+    "word": "bureaucracy",
+    "translation": "官僚主义;官僚机构",
+    "phonetic": "/bjʊˈrɒkrəsi/",
+    "example": "Excessive bureaucracy slows down decision-making.",
+    "exampleTranslation": "过度的官僚主义会减慢决策速度。"
+  },
+  {
+    "word": "circumvent",
+    "translation": "规避;绕过",
+    "phonetic": "/ˌsɜːkəmˈvent/",
+    "example": "Companies try to circumvent regulations.",
+    "exampleTranslation": "公司试图规避法规。"
+  },
+  {
+    "word": "coherent",
+    "translation": "连贯的;一致的",
+    "phonetic": "/kəʊˈhɪərənt/",
+    "example": "The policy needs a more coherent strategy.",
+    "exampleTranslation": "该政策需要一个更连贯的战略。"
+  },
+  {
+    "word": "commodity",
+    "translation": "商品;大宗商品",
+    "phonetic": "/kəˈmɒdəti/",
+    "example": "Oil remains the world's most traded commodity.",
+    "exampleTranslation": "石油仍然是世界上交易量最大的商品。"
+  },
+  {
+    "word": "complementary",
+    "translation": "互补的",
+    "phonetic": "/ˌkɒmplɪˈmentri/",
+    "example": "The two approaches are complementary.",
+    "exampleTranslation": "这两种方法是互补的。"
+  },
+  {
+    "word": "comprehensive",
+    "translation": "全面的;综合的",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "example": "The report provides a comprehensive analysis.",
+    "exampleTranslation": "该报告提供了全面的分析。"
+  },
+  {
+    "word": "conceive",
+    "translation": "构想;设想",
+    "phonetic": "/kənˈsiːv/",
+    "example": "It is hard to conceive of a world without the internet.",
+    "exampleTranslation": "很难设想一个没有互联网的世界。"
+  },
+  {
+    "word": "conducive",
+    "translation": "有利于的;有助于的",
+    "phonetic": "/kənˈdjuːsɪv/",
+    "example": "A quiet environment is conducive to studying.",
+    "exampleTranslation": "安静的环境有利于学习。"
+  },
+  {
+    "word": "conjecture",
+    "translation": "推测;猜想",
+    "phonetic": "/kənˈdʒektʃə(r)/",
+    "example": "This is pure conjecture without evidence.",
+    "exampleTranslation": "这是没有证据的纯粹推测。"
+  },
+  {
+    "word": "converge",
+    "translation": "汇聚;趋同",
+    "phonetic": "/kənˈvɜːdʒ/",
+    "example": "Technology and biology are converging.",
+    "exampleTranslation": "技术和生物学正在趋同。"
+  },
+  {
+    "word": "decipher",
+    "translation": "破译;解读",
+    "phonetic": "/dɪˈsaɪfə(r)/",
+    "example": "Scientists are trying to decipher the ancient text.",
+    "exampleTranslation": "科学家们正在试图破译古代文本。"
+  },
+  {
+    "word": "delineate",
+    "translation": "描绘;勾勒",
+    "phonetic": "/dɪˈlɪnieɪt/",
+    "example": "The report delineates the boundaries of responsibility.",
+    "exampleTranslation": "报告勾勒出了责任的边界。"
+  },
+  {
+    "word": "depict",
+    "translation": "描绘;描述",
+    "phonetic": "/dɪˈpɪkt/",
+    "example": "The film depicts life in rural China.",
+    "exampleTranslation": "这部电影描绘了中国农村的生活。"
+  },
+  {
+    "word": "deprive",
+    "translation": "剥夺",
+    "phonetic": "/dɪˈpraɪv/",
+    "example": "The war deprived millions of their homes.",
+    "exampleTranslation": "战争使数百万人失去了家园。"
+  },
+  {
+    "word": "deviate",
+    "translation": "偏离;偏差",
+    "phonetic": "/ˈdiːvieɪt/",
+    "example": "The results deviate from the expected pattern.",
+    "exampleTranslation": "结果偏离了预期的模式。"
+  },
+  {
+    "word": "diminish",
+    "translation": "减少;削弱",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "example": "The influence of traditional media is diminishing.",
+    "exampleTranslation": "传统媒体的影响力正在减弱。"
+  },
+  {
+    "word": "diverge",
+    "translation": "分歧;偏离",
+    "phonetic": "/daɪˈvɜːdʒ/",
+    "example": "Opinions diverge on this issue.",
+    "exampleTranslation": "在这个问题上意见分歧。"
+  },
+  {
+    "word": "dormant",
+    "translation": "休眠的;潜伏的",
+    "phonetic": "/ˈdɔːmənt/",
+    "example": "The volcano has been dormant for centuries.",
+    "exampleTranslation": "这座火山已经休眠了几个世纪。"
+  },
+  {
+    "word": "elaborate",
+    "translation": "精心制作的;详细阐述",
+    "phonetic": "/ɪˈlæbərət/",
+    "example": "Could you elaborate on your proposal?",
+    "exampleTranslation": "你能详细阐述一下你的提案吗？"
+  },
+  {
+    "word": "eloquent",
+    "translation": "雄辩的;有说服力的",
+    "phonetic": "/ˈeləkwənt/",
+    "example": "She gave an eloquent speech about human rights.",
+    "exampleTranslation": "她就人权问题发表了雄辩的演讲。"
+  },
+  {
+    "word": "embody",
+    "translation": "体现;代表",
+    "phonetic": "/ɪmˈbɒdi/",
+    "example": "The law embodies the principle of equality.",
+    "exampleTranslation": "该法律体现了平等原则。"
+  },
+  {
+    "word": "emerge",
+    "translation": "出现;浮现",
+    "phonetic": "/ɪˈmɜːdʒ/",
+    "example": "New technologies continue to emerge.",
+    "exampleTranslation": "新技术不断涌现。"
+  },
+  {
+    "word": "empower",
+    "translation": "赋权;使能够",
+    "phonetic": "/ɪmˈpaʊə(r)/",
+    "example": "Education empowers people to improve their lives.",
+    "exampleTranslation": "教育赋予人们改善生活的能力。"
+  },
+  {
+    "word": "envisage",
+    "translation": "设想;展望",
+    "phonetic": "/ɪnˈvɪzɪdʒ/",
+    "example": "It is hard to envisage a solution.",
+    "exampleTranslation": "很难设想一个解决方案。"
+  },
+  {
+    "word": "erode",
+    "translation": "侵蚀;削弱",
+    "phonetic": "/ɪˈrəʊd/",
+    "example": "Public trust in institutions has eroded.",
+    "exampleTranslation": "公众对机构的信任已经被削弱。"
+  },
+  {
+    "word": "exempt",
+    "translation": "豁免;免除",
+    "phonetic": "/ɪɡˈzempt/",
+    "example": "Small businesses are exempt from the tax.",
+    "exampleTranslation": "小企业免征该税。"
+  },
+  {
+    "word": "explicit",
+    "translation": "明确的;直接的",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "example": "The rules must be explicit and clear.",
+    "exampleTranslation": "规则必须明确和清晰。"
+  },
+  {
+    "word": "facilitate",
+    "translation": "促进;使便利",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "example": "Technology facilitates communication across borders.",
+    "exampleTranslation": "技术促进了跨国沟通。"
+  },
+  {
+    "word": "fallacy",
+    "translation": "谬误;错误推理",
+    "phonetic": "/ˈfæləsi/",
+    "example": "It is a common fallacy that money buys happiness.",
+    "exampleTranslation": "金钱能买到幸福是一个常见的谬误。"
+  },
+  {
+    "word": "foster",
+    "translation": "培养;促进",
+    "phonetic": "/ˈfɒstə(r)/",
+    "example": "The program fosters creativity in young students.",
+    "exampleTranslation": "该项目培养年轻学生的创造力。"
+  },
+  {
+    "word": "fragmented",
+    "translation": "碎片化的;分裂的",
+    "phonetic": "/ˈfræɡmentɪd/",
+    "example": "The healthcare system is fragmented.",
+    "exampleTranslation": "医疗保健系统是碎片化的。"
+  },
+  {
+    "word": "frugal",
+    "translation": "节俭的",
+    "phonetic": "/ˈfruːɡl/",
+    "example": "She is known for her frugal lifestyle.",
+    "exampleTranslation": "她以节俭的生活方式而闻名。"
+  },
+  {
+    "word": "grapple",
+    "translation": "努力解决;搏斗",
+    "phonetic": "/ˈɡræpl/",
+    "example": "Governments are grappling with the AI revolution.",
+    "exampleTranslation": "各国政府正在努力应对 AI 革命。"
+  },
+  {
+    "word": "hamper",
+    "translation": "妨碍;阻碍",
+    "phonetic": "/ˈhæmpə(r)/",
+    "example": "Bad weather hampered rescue efforts.",
+    "exampleTranslation": "恶劣天气阻碍了救援工作。"
+  },
+  {
+    "word": "holistic",
+    "translation": "整体的;全面的",
+    "phonetic": "/həˈlɪstɪk/",
+    "example": "We need a holistic approach to health.",
+    "exampleTranslation": "我们需要一种整体的健康方法。"
+  },
+  {
+    "word": "ideology",
+    "translation": "意识形态;思想体系",
+    "phonetic": "/ˌaɪdiˈɒlədʒi/",
+    "example": "The party's ideology has shifted over time.",
+    "exampleTranslation": "该党的意识形态随着时间的推移发生了变化。"
+  },
+  {
+    "word": "impede",
+    "translation": "阻碍;妨碍",
+    "phonetic": "/ɪmˈpiːd/",
+    "example": "Red tape impedes economic development.",
+    "exampleTranslation": "繁文缛节阻碍了经济发展。"
+  },
+  {
+    "word": "inception",
+    "translation": "开始;开端",
+    "phonetic": "/ɪnˈsepʃn/",
+    "example": "Since its inception, the company has grown rapidly.",
+    "exampleTranslation": "自成立以来，该公司发展迅速。"
+  },
+  {
+    "word": "incentivize",
+    "translation": "激励;鼓励",
+    "phonetic": "/ɪnˈsentɪvaɪz/",
+    "example": "The policy incentivizes renewable energy adoption.",
+    "exampleTranslation": "该政策激励可再生能源的采用。"
+  },
+  {
+    "word": "indispensable",
+    "translation": "不可或缺的",
+    "phonetic": "/ˌɪndɪˈspensəbl/",
+    "example": "Data has become indispensable in modern research.",
+    "exampleTranslation": "数据在现代研究中已不可或缺。"
+  },
+  {
+    "word": "inhibit",
+    "translation": "抑制;阻止",
+    "phonetic": "/ɪnˈhɪbɪt/",
+    "example": "Fear can inhibit creativity.",
+    "exampleTranslation": "恐惧会抑制创造力。"
+  },
+  {
+    "word": "integrate",
+    "translation": "整合;融合",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "example": "The goal is to integrate AI into existing workflows.",
+    "exampleTranslation": "目标是将 AI 整合到现有的工作流程中。"
+  },
+  {
+    "word": "intermittent",
+    "translation": "间歇的;断断续续的",
+    "phonetic": "/ˌɪntəˈmɪtənt/",
+    "example": "The region experiences intermittent power cuts.",
+    "exampleTranslation": "该地区经历间歇性停电。"
+  },
+  {
+    "word": "intricate",
+    "translation": "错综复杂的",
+    "phonetic": "/ˈɪntrɪkət/",
+    "example": "The mechanism is incredibly intricate.",
+    "exampleTranslation": "这个机制极其复杂。"
+  },
+  {
+    "word": "invoke",
+    "translation": "援引;调用",
+    "phonetic": "/ɪnˈvəʊk/",
+    "example": "The government invoked emergency powers.",
+    "exampleTranslation": "政府援引了紧急权力。"
+  },
+  {
+    "word": "juxtapose",
+    "translation": "并列;并置",
+    "phonetic": "/ˌdʒʌkstəˈpəʊz/",
+    "example": "The exhibition juxtaposes old and new art.",
+    "exampleTranslation": "展览将新旧艺术并列展示。"
+  },
+  {
+    "word": "magnitude",
+    "translation": "规模;重要性",
+    "phonetic": "/ˈmæɡnɪtjuːd/",
+    "example": "The magnitude of the problem is often underestimated.",
+    "exampleTranslation": "问题的规模常常被低估。"
+  },
+  {
+    "word": "mandate",
+    "translation": "授权;命令",
+    "phonetic": "/ˈmændeɪt/",
+    "example": "The government mandated vaccinations for all workers.",
+    "exampleTranslation": "政府强制所有工人接种疫苗。"
+  },
+  {
+    "word": "manifest",
+    "translation": "表现;显示",
+    "phonetic": "/ˈmænɪfest/",
+    "example": "The symptoms manifest differently in each patient.",
+    "exampleTranslation": "症状在每个患者身上表现不同。"
+  },
+  {
+    "word": "marginalize",
+    "translation": "边缘化",
+    "phonetic": "/ˈmɑːdʒɪnəlaɪz/",
+    "example": "Certain groups have been historically marginalized.",
+    "exampleTranslation": "某些群体在历史上一直被边缘化。"
+  },
+  {
+    "word": "niche",
+    "translation": "利基;细分市场",
+    "phonetic": "/niːʃ/",
+    "example": "The company found a profitable niche market.",
+    "exampleTranslation": "公司找到了一个有利可图的利基市场。"
+  },
+  {
+    "word": "notorious",
+    "translation": "臭名昭著的",
+    "phonetic": "/nəʊˈtɔːriəs/",
+    "example": "The city is notorious for its traffic jams.",
+    "exampleTranslation": "这座城市因交通堵塞而臭名昭著。"
+  },
+  {
+    "word": "optimal",
+    "translation": "最佳的;最优的",
+    "phonetic": "/ˈɒptɪml/",
+    "example": "Finding the optimal solution requires more data.",
+    "exampleTranslation": "找到最佳解决方案需要更多数据。"
+  },
+  {
+    "word": "oscillate",
+    "translation": "摆动;犹豫不决",
+    "phonetic": "/ˈɒsɪleɪt/",
+    "example": "The market oscillates between optimism and fear.",
+    "exampleTranslation": "市场在乐观和恐惧之间摇摆。"
+  },
+  {
+    "word": "overarching",
+    "translation": "首要的;包罗万象的",
+    "phonetic": "/ˌəʊvərˈɑːtʃɪŋ/",
+    "example": "The overarching goal is sustainable development.",
+    "exampleTranslation": "首要目标是可持续发展。"
+  },
+  {
+    "word": "paradox",
+    "translation": "悖论;矛盾",
+    "phonetic": "/ˈpærədɒks/",
+    "example": "It is a paradox that wealth does not guarantee happiness.",
+    "exampleTranslation": "财富不能保证幸福，这是一个悖论。"
+  },
+  {
+    "word": "paramount",
+    "translation": "至高无上的;最重要的",
+    "phonetic": "/ˈpærəmaʊnt/",
+    "example": "Safety is of paramount importance.",
+    "exampleTranslation": "安全至关重要。"
+  },
+  {
+    "word": "perceive",
+    "translation": "感知;认为",
+    "phonetic": "/pəˈsiːv/",
+    "example": "People perceive risk differently.",
+    "exampleTranslation": "人们对风险的感知不同。"
+  },
+  {
+    "word": "phenomenon",
+    "translation": "现象",
+    "phonetic": "/fəˈnɒmɪnən/",
+    "example": "Social media addiction is a growing phenomenon.",
+    "exampleTranslation": "社交媒体成瘾是一个日益增长的现象。"
+  },
+  {
+    "word": "plausible",
+    "translation": "似乎合理的",
+    "phonetic": "/ˈplɔːzəbl/",
+    "example": "The theory is plausible but unproven.",
+    "exampleTranslation": "这个理论似乎合理但未经证实。"
+  },
+  {
+    "word": "precedent",
+    "translation": "先例",
+    "phonetic": "/ˈpresɪdənt/",
+    "example": "The ruling set a legal precedent.",
+    "exampleTranslation": "该裁决开创了一个法律先例。"
+  },
+  {
+    "word": "preliminary",
+    "translation": "初步的;预备的",
+    "phonetic": "/prɪˈlɪmɪnəri/",
+    "example": "Preliminary results are promising.",
+    "exampleTranslation": "初步结果令人鼓舞。"
+  },
+  {
+    "word": "prevalent",
+    "translation": "流行的;普遍的",
+    "phonetic": "/ˈprevələnt/",
+    "example": "Misinformation is prevalent on social media.",
+    "exampleTranslation": "错误信息在社交媒体上很普遍。"
+  },
+  {
+    "word": "propagate",
+    "translation": "传播;宣传",
+    "phonetic": "/ˈprɒpəɡeɪt/",
+    "example": "Social media can propagate false information quickly.",
+    "exampleTranslation": "社交媒体可以快速传播虚假信息。"
+  },
+  {
+    "word": "proximity",
+    "translation": "接近;邻近",
+    "phonetic": "/prɒkˈsɪməti/",
+    "example": "The proximity to the city center makes it valuable.",
+    "exampleTranslation": "靠近市中心使其很有价值。"
+  },
+  {
+    "word": "reconcile",
+    "translation": "调和;和解",
+    "phonetic": "/ˈrekənsaɪl/",
+    "example": "It is hard to reconcile economic growth with sustainability.",
+    "exampleTranslation": "很难将经济增长与可持续性调和起来。"
+  },
+  {
+    "word": "refute",
+    "translation": "反驳;驳斥",
+    "phonetic": "/rɪˈfjuːt/",
+    "example": "The study refutes previous assumptions.",
+    "exampleTranslation": "该研究驳斥了先前的假设。"
+  },
+  {
+    "word": "relinquish",
+    "translation": "放弃;交出",
+    "phonetic": "/rɪˈlɪŋkwɪʃ/",
+    "example": "He refused to relinquish control.",
+    "exampleTranslation": "他拒绝放弃控制权。"
+  },
+  {
+    "word": "remnant",
+    "translation": "残余;遗迹",
+    "phonetic": "/ˈremnənt/",
+    "example": "These are remnants of a bygone era.",
+    "exampleTranslation": "这些是一个逝去时代的遗迹。"
+  },
+  {
+    "word": "replicate",
+    "translation": "复制;重现",
+    "phonetic": "/ˈreplɪkeɪt/",
+    "example": "The results were difficult to replicate.",
+    "exampleTranslation": "结果很难复制。"
+  },
+  {
+    "word": "restraint",
+    "translation": "克制;限制",
+    "phonetic": "/rɪˈstreɪnt/",
+    "example": "The government showed restraint in its response.",
+    "exampleTranslation": "政府在回应中表现出了克制。"
+  },
+  {
+    "word": "rhetoric",
+    "translation": "修辞;言辞",
+    "phonetic": "/ˈretərɪk/",
+    "example": "The rhetoric of division must end.",
+    "exampleTranslation": "分裂的言辞必须终止。"
+  },
+  {
+    "word": "scarcity",
+    "translation": "稀缺;缺乏",
+    "phonetic": "/ˈskeəsəti/",
+    "example": "Water scarcity is a growing global concern.",
+    "exampleTranslation": "水资源短缺是日益增长的全球关注点。"
+  },
+  {
+    "word": "simulate",
+    "translation": "模拟;仿真",
+    "phonetic": "/ˈsɪmjuleɪt/",
+    "example": "Computers can simulate complex systems.",
+    "exampleTranslation": "计算机可以模拟复杂系统。"
+  },
+  {
+    "word": "skeptical",
+    "translation": "怀疑的",
+    "phonetic": "/ˈskeptɪkl/",
+    "example": "Scientists remain skeptical of the claims.",
+    "exampleTranslation": "科学家们对这些说法仍然持怀疑态度。"
+  },
+  {
+    "word": "sophisticated",
+    "translation": "复杂的;精密的;老练的",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "example": "The algorithm is highly sophisticated.",
+    "exampleTranslation": "该算法非常精密。"
+  },
+  {
+    "word": "sporadic",
+    "translation": "零星的;间歇的",
+    "phonetic": "/spəˈrædɪk/",
+    "example": "There have been sporadic protests across the country.",
+    "exampleTranslation": "全国各地发生了零星的抗议活动。"
+  },
+  {
+    "word": "stagnate",
+    "translation": "停滞;不发展",
+    "phonetic": "/ˈstæɡneɪt/",
+    "example": "The economy has stagnated for years.",
+    "exampleTranslation": "经济已经停滞多年。"
+  },
+  {
+    "word": "subsidize",
+    "translation": "补贴;资助",
+    "phonetic": "/ˈsʌbsɪdaɪz/",
+    "example": "The government subsidizes renewable energy.",
+    "exampleTranslation": "政府补贴可再生能源。"
+  },
+  {
+    "word": "synthesis",
+    "translation": "综合;合成",
+    "phonetic": "/ˈsɪnθəsɪs/",
+    "example": "The paper presents a synthesis of existing research.",
+    "exampleTranslation": "该论文综合了现有的研究。"
+  },
+  {
+    "word": "tenacious",
+    "translation": "坚韧不拔的",
+    "phonetic": "/tɪˈneɪʃəs/",
+    "example": "She is a tenacious negotiator.",
+    "exampleTranslation": "她是一位坚韧不拔的谈判者。"
+  },
+  {
+    "word": "transcend",
+    "translation": "超越",
+    "phonetic": "/trænˈsend/",
+    "example": "Great art transcends cultural boundaries.",
+    "exampleTranslation": "伟大的艺术超越文化界限。"
+  },
+  {
+    "word": "transparent",
+    "translation": "透明的",
+    "phonetic": "/trænsˈpærənt/",
+    "example": "The government should be more transparent.",
+    "exampleTranslation": "政府应该更加透明。"
+  },
+  {
+    "word": "underlie",
+    "translation": "构成…的基础",
+    "phonetic": "/ˌʌndəˈlaɪ/",
+    "example": "Several factors underlie this trend.",
+    "exampleTranslation": "几个因素构成了这一趋势的基础。"
+  },
+  {
+    "word": "volatile",
+    "translation": "不稳定的;易变的",
+    "phonetic": "/ˈvɒlətaɪl/",
+    "example": "The political situation remains volatile.",
+    "exampleTranslation": "政治局势仍然不稳定。"
+  },
+  {
+    "word": "vulnerable",
+    "translation": "脆弱的;易受攻击的",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "example": "Elderly people are more vulnerable to the virus.",
+    "exampleTranslation": "老年人更容易受到病毒的侵害。"
+  }
+]
