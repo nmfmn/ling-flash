@@ -4,30 +4,50 @@
 (async function() {
   // Load vocabulary and init highlighter
   async function loadAndInit() {
-    const words = await chrome.runtime.sendMessage({ action: 'getMatchWords' });
-    if (words && words.length > 0) {
-      Highlighter.init(words);
+    try {
+      const response = await chrome.runtime.sendMessage({ action: 'getMatchWords' });
+      if (chrome.runtime.lastError) {
+        console.warn('[灵闪] sendMessage error:', chrome.runtime.lastError.message);
+        return;
+      }
+      if (response && response.error) {
+        console.warn('[灵闪] getMatchWords error:', response.error);
+        return;
+      }
+      if (response && Array.isArray(response) && response.length > 0) {
+        console.log('[灵闪] Loaded', response.length, 'words, scanning page...');
+        Highlighter.init(response);
+        console.log('[灵闪] Scan complete');
+      } else {
+        console.log('[灵闪] No words to highlight (empty vocab or all mastered)');
+      }
+    } catch (e) {
+      console.warn('[灵闪] Failed to load words:', e.message);
     }
   }
 
   await loadAndInit();
 
   // Listen for vocab updates from background
-  chrome.runtime.onMessage.addListener((msg) => {
+  chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
     if (msg.action === 'vocabUpdated') {
+      console.log('[灵闪] Vocab updated, re-scanning...');
       loadAndInit();
+      sendResponse({ ok: true });
     }
   });
 
   // Double-click to quick-add a word
   document.addEventListener('dblclick', async (e) => {
+    // Skip if target is inside our UI
+    if (e.target.closest('#flash-tooltip') || e.target.closest('#flash-add-btn')) return;
+
     const selection = window.getSelection();
     const text = selection.toString().trim();
     if (!text || text.length < 2 || text.length > 50) return;
     // Skip if it's mostly Chinese
     if (/[\u4e00-\u9fff]/.test(text)) return;
 
-    // Show mini floating button near selection
     showAddButton(selection, text);
   });
 
@@ -36,8 +56,13 @@
     const existing = document.getElementById('flash-add-btn');
     if (existing) existing.remove();
 
-    const range = selection.getRangeAt(0);
-    const rect = range.getBoundingClientRect();
+    let rect;
+    try {
+      const range = selection.getRangeAt(0);
+      rect = range.getBoundingClientRect();
+    } catch (e) {
+      return;
+    }
 
     const btn = document.createElement('div');
     btn.id = 'flash-add-btn';
@@ -66,18 +91,20 @@
 
     btn.addEventListener('click', async (e) => {
       e.stopPropagation();
+      e.preventDefault();
       btn.innerHTML = '⏳';
       try {
         const result = await chrome.runtime.sendMessage({
           action: 'addWord',
           word: word
         });
-        if (result.error) throw new Error(result.error);
+        if (result && result.error) throw new Error(result.error);
         btn.innerHTML = '✅';
         btn.style.background = '#4ade80';
         // Refresh highlights
-        loadAndInit();
+        setTimeout(() => loadAndInit(), 500);
       } catch (err) {
+        console.warn('[灵闪] Failed to add word:', err.message);
         btn.innerHTML = '❌';
       }
       setTimeout(() => btn.remove(), 1500);
@@ -85,17 +112,18 @@
 
     document.body.appendChild(btn);
 
-    // Auto-remove after 4 seconds
+    // Auto-remove after 5 seconds
     setTimeout(() => {
       if (btn.parentElement) btn.remove();
-    }, 4000);
+    }, 5000);
 
     // Remove on click elsewhere
-    setTimeout(() => {
-      document.addEventListener('click', function handler() {
+    const handler = (e) => {
+      if (!btn.contains(e.target)) {
         if (btn.parentElement) btn.remove();
         document.removeEventListener('click', handler);
-      }, { once: true });
-    }, 100);
+      }
+    };
+    setTimeout(() => document.addEventListener('click', handler), 200);
   }
 })();
