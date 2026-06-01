@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>灵闪单词</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>⚡ 灵闪单词</h1>
+      <nav>
+        <button class="tab active" data-tab="daily">📅 每日</button>
+        <button class="tab" data-tab="vocab">📋 词汇</button>
+        <button class="tab" data-tab="settings">⚙️ 设置</button>
+      </nav>
+    </header>
+
+    <!-- Daily Words Panel -->
+    <section id="panel-daily" class="panel active">
+      <div class="daily-header">
+        <div class="daily-title">今日外刊高频词</div>
+        <div class="daily-hint">双击页面中的单词即可快速添加</div>
+      </div>
+      <div id="daily-stats" class="stats-row"></div>
+      <div id="daily-list" class="daily-list"></div>
+    </section>
+
+    <!-- Vocabulary Panel -->
+    <section id="panel-vocab" class="panel">
+      <div class="toolbar">
+        <button id="add-manual-btn" class="btn primary">➕ 添加单词</button>
+        <button id="export-vocab-btn" class="btn">📤 导出</button>
+      </div>
+      <div class="setting-group">
+        <input type="text" id="vocab-search" placeholder="搜索词汇...">
+      </div>
+      <div id="vocab-stats" class="hint" style="margin-bottom:8px;"></div>
+      <div id="vocab-list" class="vocab-list"></div>
+    </section>
+
+    <!-- Settings Panel -->
+    <section id="panel-settings" class="panel">
+      <div class="setting-group">
+        <label>API Key</label>
+        <input type="password" id="setting-apikey" placeholder="sk-...">
+        <span class="hint">用于单词查询和句子翻译</span>
+      </div>
+      <div class="setting-group">
+        <label>API URL</label>
+        <input type="text" id="setting-apiurl" placeholder="https://api.openai.com/v1">
+      </div>
+      <div class="setting-group">
+        <label>模型</label>
+        <input type="text" id="setting-model" placeholder="gpt-4o-mini">
+      </div>
+      <button id="save-settings-btn" class="btn primary">保存设置</button>
+      <button id="test-api-btn" class="btn">🔗 测试连接</button>
+      <hr>
+      <div class="setting-group">
+        <label>📊 学习统计</label>
+        <div id="full-stats" class="hint"></div>
+      </div>
+      <hr>
+      <button id="clear-data-btn" class="btn danger">清除所有数据</button>
+    </section>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <!-- Manual add dialog -->
+  <div id="add-dialog" class="dialog hidden">
+    <div class="dialog-content">
+      <h3>添加单词/短语</h3>
+      <input type="text" id="dialog-word" placeholder="英文单词或短语">
+      <input type="text" id="dialog-translation" placeholder="中文释义（可留空自动查询）">
+      <div class="dialog-actions">
+        <button id="dialog-cancel" class="btn">取消</button>
+        <button id="dialog-confirm" class="btn primary">添加</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="lib/storage.js"></script>
+  <script src="sidepanel.js"></script>
+</body>
+</html>
